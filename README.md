@@ -1,4 +1,33 @@
 # leeyangy-shell
+
+## 项目介绍
+
+参考并学习了如下项目：
+
+[Tutorial - Write a Shell in C • Stephen Brennan](https://brennan.io/2015/01/16/write-a-shell-in-c/)
+
+[NevermindZZT/letter-shell: letter shell (github.com)](https://github.com/NevermindZZT/letter-shell)
+
+[lebinlv/nano-shell: A light shell designed for embedded systems (github.com)](https://github.com/lebinlv/nano-shell)
+
+
+
+
+
+## 技术栈
+
+c，cmake
+
+## 开发工具
+
+Clion
+
+## 运行平台
+
+Win11(开发平台) 、Linux(暂无)、arduino(暂无)、macOS(暂无)
+
+
+
 ## 使用Cmake构建项目
 
 1. 创建 CMakeLists.txt 文件
@@ -65,3 +94,20 @@
    ```
 
    
+
+
+
+显示文字
+
+```bash
+ _      ______ ________     __      _   _  _______     __   _____ _    _ ______ _      _       __      ____   ___  
+| |    |  ____|  ____\ \   / //\   | \ | |/ ____\ \   / /  / ____| |  | |  ____| |    | |      \ \    / /_ | / _ \ 
+| |    | |__  | |__   \ \_/ //  \  |  \| | |  __ \ \_/ /  | (___ | |__| | |__  | |    | |       \ \  / / | || | | |
+| |    |  __| |  __|   \   // /\ \ | . ` | | |_ | \   /    \___ \|  __  |  __| | |    | |        \ \/ /  | || | | |
+| |____| |____| |____   | |/ ____ \| |\  | |__| |  | |     ____) | |  | | |____| |____| |____     \  /   | || |_| |
+|______|______|______|  |_/_/    \_\_| \_|\_____|  |_|    |_____/|_|  |_|______|______|______|     \/    |_(_)___/ 
+
+```
+
+
+
